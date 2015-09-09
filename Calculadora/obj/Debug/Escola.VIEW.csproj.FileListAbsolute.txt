@@ -18,3 +18,14 @@ C:\Users\Humberto\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.FrmMedia
 C:\Users\Humberto\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.FrmMenu.resources
 C:\Users\Humberto\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
 C:\Users\Humberto\Desktop\Calculadora\Calculadora\obj\Debug\Escola.VIEW.csproj.GenerateResource.Cache
+C:\Users\Humberto\Documents\GitHub\Projeto-Escola\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Humberto\Documents\GitHub\Projeto-Escola\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Humberto\Documents\GitHub\Projeto-Escola\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Humberto\Documents\GitHub\Projeto-Escola\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Humberto\Documents\GitHub\Projeto-Escola\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Humberto\Documents\GitHub\Projeto-Escola\Calculadora\obj\Debug\Escola.VIEW.csprojResolveAssemblyReference.cache
+C:\Users\Humberto\Documents\GitHub\Projeto-Escola\Calculadora\obj\Debug\Calculadora.FrmCalculadora.resources
+C:\Users\Humberto\Documents\GitHub\Projeto-Escola\Calculadora\obj\Debug\Calculadora.FrmMedias.resources
+C:\Users\Humberto\Documents\GitHub\Projeto-Escola\Calculadora\obj\Debug\Calculadora.FrmMenu.resources
+C:\Users\Humberto\Documents\GitHub\Projeto-Escola\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Humberto\Documents\GitHub\Projeto-Escola\Calculadora\obj\Debug\Escola.VIEW.csproj.GenerateResource.Cache

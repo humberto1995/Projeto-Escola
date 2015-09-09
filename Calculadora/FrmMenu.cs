@@ -30,5 +30,19 @@ namespace Calculadora
                 Medias.Show();
             }
         }
+
+        private void calculadoraToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if (Application.OpenForms.OfType<FrmCalculadora>().Count() > 0)
+            {
+                Application.OpenForms.OfType<FrmCalculadora>().First().Focus();
+            }
+            else
+            {
+                FrmCalculadora Calculadora = new FrmCalculadora();
+                Calculadora.MdiParent = this;
+                Calculadora.Show();
+            }
+        }
     }
 }

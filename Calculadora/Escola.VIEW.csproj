@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FrmCalculadora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCalculadora.Designer.cs">
+      <DependentUpon>FrmCalculadora.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmMedias.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -60,6 +66,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmCalculadora.resx">
+      <DependentUpon>FrmCalculadora.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmMedias.resx">
       <DependentUpon>FrmMedias.cs</DependentUpon>
     </EmbeddedResource>
@@ -74,6 +83,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -87,6 +97,57 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Apagar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dividir.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Multiplicar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Subitrair.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Somar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Igual.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ponto.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Zero.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Um.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dois.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Três.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Quatro.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cinco.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Seis.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sete.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Oito.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nove.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
